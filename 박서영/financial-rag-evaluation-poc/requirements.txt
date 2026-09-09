@@ -1,0 +1,6 @@
+deepeval==4.2.0
+openai==3.5.0
+python-dotenv==1.2.3
+pytest==9.1.1
+langwatch==0.1.32
+httpx==0.27.2
